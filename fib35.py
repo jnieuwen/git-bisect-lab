@@ -11,13 +11,12 @@ if __name__ == '__main__':
 
 
 
-
     if n == 1:
         print("0,1")
         sys.exit()
 
     values = []
-    values.append(0)
+    values.append(0    
     values.append(1)
 
 
