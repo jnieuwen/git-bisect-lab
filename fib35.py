@@ -14,6 +14,8 @@ if __name__ == '__main__':
         print("0,1")
         sys.exit()
 
+
+
     values = []
     values.append(0    
     values.append(1)
