@@ -19,6 +19,7 @@ if __name__ == '__main__':
     values.append(1)
 
 
+
     while len(values) <= n:
         values.append(values[-1] + values[-2])
 
