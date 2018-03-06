@@ -10,7 +10,6 @@ if __name__ == '__main__':
         sys.exit()
 
 
-
     if n == 1:
         print("0,1")
         sys.exit()
