@@ -23,6 +23,7 @@ if __name__ == '__main__':
     while len(values) <= n:
         values.append(values[-1] + values[-2])
 
+
     print(",".join(map(str,values)))
 
 
